@@ -2,7 +2,7 @@
 
 #### Pakitimai nuo V2.0 versijos
 ```diff
-| Sukurtas programos diegimo failas - setup.exe
+| Sukurtas programos diegimo failas - V30.exe
 ```
 
 # 2-oji užduotis
